@@ -6,10 +6,10 @@
 	<title>My first project</title>
 </head>
 <body>
-<header></header>
+<header><a href="/">Home</a></header>
 <nav>
 	<ul>
-		<li><a href="#">урок 1</a></li>
+		<li><a href="lesson1.php">урок 1</a></li>
 		<li><a href="#">урок 2</a></li>
 	</ul>
 </nav>
